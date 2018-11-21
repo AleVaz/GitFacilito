@@ -10,6 +10,7 @@ a{
 p{
     background: yellow;
     color: aqua;
+    text-transform: uppercase;
 }
 p2{
     background: aquamarine;
