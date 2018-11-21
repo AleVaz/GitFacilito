@@ -11,3 +11,8 @@ p{
     background: yellow;
     color: aqua;
 }
+p2{
+    background: aquamarine;
+    color: blue;
+    padding: 10px;
+}
