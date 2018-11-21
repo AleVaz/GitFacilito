@@ -7,3 +7,7 @@ a{
     background: salmon;
     display: block;
 }
+p{
+    background: yellow;
+    color: aqua;
+}
