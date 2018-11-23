@@ -1,16 +1,17 @@
 
 h1{
-    background: salmon;
+    background: rgb(150, 114, 250);
     display: inline-block;
 }
 a{
-    background: salmon;
+    background: rgb(146, 250, 114);
     display: block;
 }
 p{
-    background: yellow;
+    background: red;
     color: aqua;
     text-transform: uppercase;
+
 }
 p2{
     background: aquamarine;
